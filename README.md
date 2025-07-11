@@ -9,7 +9,7 @@
 
 ### 🙋‍♂️ About Me
 - 🎓 I’m a **Computer Engineering** student at **IOE, Purwanchal Campus (ERC), Dharan, Nepal**.
-- 🌱 Currently **learning**: **Python, Django**.
+- 🌱 Currently **learning**: **Python, Django, Postgresql**.
 - 💡 Passionate about **backend development, problem-solving**, and **open-source contributions**.
 - 💬 Ask me about **Python, Django**, or anything tech-related!
 
