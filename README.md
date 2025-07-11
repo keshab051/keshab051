@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshab Neupane</h1>
-<h3 align="center">Aspiring Software Developer | Computer Engineering Student</h3>
+<h3 align="center">A Computer Engineer</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="250" alt="Developer GIF">
